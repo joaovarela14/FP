@@ -1,0 +1,1 @@
+#stocks2 = sorted(stocks, key=lambda j: (j[0], -j[-1] ))

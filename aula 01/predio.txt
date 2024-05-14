@@ -1,0 +1,8 @@
+2*2*6+2*2*12+2*2*18 = 144
+ 
+144*365/1000 = 52.56 kilometros percorridos
+
+144*365/3600 = 14.6 horas em funcionamento
+
+
+
